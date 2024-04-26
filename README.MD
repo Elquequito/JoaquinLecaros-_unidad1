@@ -3,3 +3,5 @@
 # joa.lecaros@duocuc.cl
 
 # conflicto resuelto!!!
+
+# navegación lista
