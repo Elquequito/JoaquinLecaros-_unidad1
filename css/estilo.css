@@ -1,4 +1,14 @@
 h1 {
+<<<<<<< HEAD
     color: red;
     font-weight: bold;
 }
+=======
+    color: green;
+    font-weight: bold;
+}
+
+p {
+    color:blue
+}
+>>>>>>> index
