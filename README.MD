@@ -1,4 +1,4 @@
-# JoaquiN_Lecaros
+# Joaquin_Lecaros
 
 # joa.lecaros@duocuc.cl
 
